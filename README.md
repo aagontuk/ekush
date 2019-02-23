@@ -3,9 +3,9 @@ Ekush is a drawing tool based on python turtle. Few days back while riding a bus
 ### Example ###
 ![](shaheed_minar.gif)
 
-If you wan to generate this drawing of 'Shaheed Minar' in your machine, donwload this repository and run main.py .
+If you wan to generate this drawing of 'Shaheed Minar' in your machine, donwload this repository and run shaheed_minar.py .
 ```sh
 $ git clone https://github.com/aagontuk/ekush
 $ cd ekush
-$ python main.py
+$ python shaheed_minar.py
 ```
