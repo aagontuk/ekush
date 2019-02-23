@@ -99,7 +99,7 @@ class Rectangle(object):
         return [self.bottom_left, self.bottom_right,
                 self.top_left, self.top_right]
 
-    def erase(self, p1, p2, bgcolor="white"):
+    def erase(self, p1, p2):
         """
         Erase line from p1 to p2.
 
@@ -118,7 +118,7 @@ class Rectangle(object):
         turtle.penup()
         turtle.setpos(x1, y1)
         turtle.pendown()
-        turtle.color(bgcolor)
+        turtle.color(turtle.bgcolor())
         turtle.setheading(turtle.towards(x2, y2))
         turtle.forward(turtle.distance(x2, y2))
 
