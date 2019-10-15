@@ -1,4 +1,4 @@
-Ekush is a drawing tool based on python turtle. Few days back while riding a bus, I came to know about the turtle module from a Python Basic book. I planned in this International Mother Language Day 2019 I will draw '[Shaheed Minar](https://en.wikipedia.org/wiki/Shaheed_Minar,_Dhaka)' using turtle. From that plan this tool springs.
+Ekush is a drawing tool based on python turtle. Few days back while riding on a bus and stuck in a trafic jam, I came to know about the turtle module from a Python Basic book. I planned in this International Mother Language Day 2019 I will draw '[Shaheed Minar](https://en.wikipedia.org/wiki/Shaheed_Minar,_Dhaka)' using turtle. From that plan this tool springs.
 
 ### Example ###
 ![](shaheed_minar.gif)
